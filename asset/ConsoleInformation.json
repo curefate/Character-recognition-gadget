@@ -1,0 +1,7 @@
+{
+  "Setting": [
+    {"MODE": "TOF", "APPID": "4eb97cf6", "Secret": "MmJmYWMzOGU5OWJkMzMxNmM2YTE4MGJm", "APIKey": "0926a1a1b0e2b16af96aa88112013624"},
+    {"MODE": "P2T", "APPID": "4eb97cf6", "Secret": "", "APIKey": "61883b35663c9677096219e672ec9c86"},
+    {"MODE": "H2T", "APPID": "4eb97cf6", "Secret": "", "APIKey": "61883b35663c9677096219e672ec9c86"}
+  ]
+}
